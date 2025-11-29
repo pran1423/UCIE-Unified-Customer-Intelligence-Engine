@@ -1,0 +1,28 @@
+# Python and environment
+__pycache__/
+.env/
+*.pyc
+
+# Data
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# MLflow artifacts
+mlruns/
+artifacts/
+
+# Notebooks junk
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Conda environments
+*.conda
+.envs/
